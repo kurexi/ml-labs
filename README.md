@@ -1,1 +1,1 @@
-# Lab works from FML class
+# Lab works from Machine Learning classes
